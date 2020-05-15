@@ -292,7 +292,7 @@ ul {
 .numeros{
     margin-left: 20%;
     margin-right: 20%;
-    margin-top: 3.6em;
+    margin-top: 3em;
     width: 60%;
     
 }
@@ -354,6 +354,11 @@ ul {
 
 hr {
     color: transparent;
+    height: 0.6em;
+}
+
+#gratuit_1 hr {
+    height: 0em;
 }
 
 .numeros img {
